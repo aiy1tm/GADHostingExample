@@ -1,0 +1,22 @@
+PODS:
+  - CorePlot (2.0)
+  - Google-Mobile-Ads-SDK (7.7.1)
+
+DEPENDENCIES:
+  - CorePlot (from `https://github.com/core-plot/core-plot.git`)
+  - Google-Mobile-Ads-SDK (~> 7.0)
+
+EXTERNAL SOURCES:
+  CorePlot:
+    :git: https://github.com/core-plot/core-plot.git
+
+CHECKOUT OPTIONS:
+  CorePlot:
+    :commit: 272db3d17bc062cbd5c2de5dffe6747224b6ffb4
+    :git: https://github.com/core-plot/core-plot.git
+
+SPEC CHECKSUMS:
+  CorePlot: c1e9eeb17628baba3ab5ea63600d73d7e948d1c4
+  Google-Mobile-Ads-SDK: e27569901b58881d9a94b42f2c642739cfe3970a
+
+COCOAPODS: 0.38.2

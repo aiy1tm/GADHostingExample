@@ -7,8 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "AdHostingViewController.h"
 
-@interface SecondViewController : UIViewController
+@interface SecondViewController : AdHostingViewController
 
 
 @end

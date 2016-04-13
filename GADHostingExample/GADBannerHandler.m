@@ -6,9 +6,9 @@
 //
 
 #warning don't forget your app unit id!
+//This one is from Google's banner example project!
 
-
-#define kAppUnitId @"ca-app-pub-3181502605151143/1344553112"
+#define kAppUnitId @"ca-app-pub-3940256099942544/2934735716";
 #import "GADBannerHandler.h"
 #import "AdHostingViewController.h"
 
